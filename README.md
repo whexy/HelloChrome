@@ -1,3 +1,3 @@
 # HelloChrome
 
-[1111111](chrome://gpu/)
+[1111111](http://chrome://gpu/)
